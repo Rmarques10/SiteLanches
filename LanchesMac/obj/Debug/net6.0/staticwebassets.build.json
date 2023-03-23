@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HX8NnoT+/+gOQ2haT8g6iQsfi817Y5Gvv+Fz3K5FHBo=",
+  "Hash": "lMjkP18/SZXuBLmWbTZyQZLzBY86a/wwllNbNGtCcyE=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -321,6 +321,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Home-iconred.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rafael Marques\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\lanchemac2.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rafael Marques\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/lanchemac2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lanchemac2.png"
     },
     {
       "Identity": "C:\\Users\\Rafael Marques\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\lanchevegano1.jpg",
