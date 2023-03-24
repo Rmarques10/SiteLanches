@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "idBoQEysRR6l17ZIfYVNTl3X6TYLIaAOr7xwG92NRWI=",
+  "Hash": "rZ+lD+dyWJz2oXawEvyLFXZlIXWnHRkcJFdBBj8mgHo=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -610,6 +610,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\login1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rafael Marques\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\negado1.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rafael Marques\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/negado1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\negado1.jpg"
     },
     {
       "Identity": "C:\\Users\\Rafael Marques\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\phone-app-icon.png",
