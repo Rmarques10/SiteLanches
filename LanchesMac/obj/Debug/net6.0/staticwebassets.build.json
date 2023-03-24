@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k2rj4/sgxjeCXO/ZeiQqlTfqT0fwJsOOzZHVh224dMg=",
+  "Hash": "idBoQEysRR6l17ZIfYVNTl3X6TYLIaAOr7xwG92NRWI=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Rafael Marques\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\adm.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rafael Marques\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/adm.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adm.jpg"
     },
     {
       "Identity": "C:\\Users\\Rafael Marques\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\images\\adminarea.jpg",
