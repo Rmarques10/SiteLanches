@@ -28,6 +28,8 @@ public class Startup
              .AddEntityFrameworkStores<AppDbContext>()
              .AddDefaultTokenProviders();
 
+        services.Configure<ConfigurationImagens>(Configuration.GetSection("ConfigurationPastaImagens"));
+
         services.AddTransient<ILancheRepository, LancheRepository>();
         services.AddTransient<ICategoriaRepository, CategoriaRepository>();
         services.AddTransient<IPedidoRepository, PedidoRepository>();
