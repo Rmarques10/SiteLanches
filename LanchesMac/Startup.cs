@@ -6,6 +6,7 @@ using LanchesMac.Models;
 using Microsoft.AspNetCore.Identity;
 using LanchesMac.Services;
 using ReflectionIT.Mvc.Paging;
+using LanchesMac.Areas.Admin.Servicos;
 
 namespace LanchesMac;
 public class Startup
@@ -31,6 +32,7 @@ public class Startup
         services.AddTransient<ICategoriaRepository, CategoriaRepository>();
         services.AddTransient<IPedidoRepository, PedidoRepository>();
         services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
+        services.AddScoped<RelatorioVendasService>();
 
         services.AddAuthorization(options =>
         {
